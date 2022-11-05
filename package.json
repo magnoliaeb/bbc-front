@@ -1,0 +1,32 @@
+{
+  "name": "bya-front",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "animate.css": "^4.1.1",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "sweet-modal-vue": "^2.0.0",
+    "vee-validate": "^3.4.14",
+    "vue-picture-swipe": "^2.1.0",
+    "vue-recaptcha-v3": "^1.9.0",
+    "vue-responsive-video-background-player": "^2.2.0",
+    "vue-slick-carousel": "^1.0.6",
+    "vue-wow": "^1.2.0",
+    "vuejs-countdown": "^0.2.1",
+    "vuetify": "^2.5.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.2.1",
+    "@nuxtjs/vuetify": "^1.12.1",
+    "sass": "^1.43.4",
+    "sass-loader": "^10.2.0"
+  }
+}

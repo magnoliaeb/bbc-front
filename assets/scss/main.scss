@@ -1,0 +1,75 @@
+@import './partials/reset';
+@import './partials/my-variabls';
+@import './partials/fonts';
+@import './partials/standard';
+@import './partials/slick';
+
+// componentes
+@import './components/home-slider';
+@import './components/units-slider';
+
+.content {
+	width: 97%;
+	margin: 0 auto;
+	// border: 1px solid red;
+}
+
+.v-toolbar__content {
+	height: 100% !important;
+	padding: 0 !important;
+}
+
+@media screen and (min-width: $sm) {
+	.content {
+		width: 85%;
+	}
+}
+@media screen and (min-width: $md) {
+	.content {
+		width: 90%;
+	}
+}
+@media screen and (min-width: $lg) {
+	.content {
+		width: 90%;
+		max-width: 1400px;
+		// background-color: olive;
+	}
+	// .lg5-custom {
+	//   width: 20%;
+	//   max-width: 20%;
+	//   flex-basis: 20%;
+	// }
+}
+
+@media screen and (min-width: $xl) {
+	.content {
+		// width: 90%;
+		max-width: 1728px;
+		// background: yellow;
+	}
+}
+// components
+
+// .v-btn:hover {
+//   background-color: #dbb809 !important;
+// }
+
+// // arrow hover bg-color slider
+// .custom-arrow.slick-arrow:hover {
+//   background-color: #ffd500b6 !important;
+//   // height: 20px !important;
+//   // width: 20px !important;
+// }
+
+.v-skeleton-loader__image.v-skeleton-loader__bone {
+	height: 100%;
+}
+
+// button,
+// a {
+//   letter-spacing: 0 !important;
+// }
+
+// #gallery--test {
+// }

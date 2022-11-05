@@ -1,0 +1,20 @@
+* {
+	text-decoration: none;
+	list-style: none;
+	// border: 1px dotted rgb(236, 8, 168);
+}
+.content {
+}
+
+.footer,
+.contect {
+	ul,
+	ol {
+		margin: 0 !important;
+		padding: 0 !important;
+	}
+}
+
+.row {
+	margin: 0;
+}

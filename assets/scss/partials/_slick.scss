@@ -1,0 +1,36 @@
+.slick-slider {
+  width: 100%;
+  // margin: 0 auto;
+  position: relative;
+  height: 100%;
+  position: relative;
+  .slick-dots {
+    padding: 0 !important;
+  }
+}
+
+.custom-arrow.slick-arrow.slick-next,
+.custom-arrow.slick-arrow.slick-prev {
+  position: absolute !important;
+  right: -10px !important;
+  display: flex !important;
+  align-items: center;
+  height: 100% !important;
+  justify-content: center;
+  top: 0;
+  z-index: 10 !important;
+  overflow: visible;
+}
+.custom-arrow.slick-arrow.slick-prev {
+  left: -10px !important;
+}
+
+@media screen and (min-width: $md) {
+  .slick-list {
+    // overflow: visible !important;
+  }
+}
+
+.slick-slider.slick-initialized.slick-vertical {
+  height: 0 !important;
+}

@@ -1,0 +1,470 @@
+{
+	"items": [
+		{
+			"name": "Bermuda Miracle 1017",
+			"price": 275,
+			"showPrices": true,
+			"picture": {
+				"id": 924,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/2c7563340d3514de1048ad018acd106d1e74e12e.jpg",
+				"name": "MARINO"
+			},
+			"variants_attributes": [
+				{ "name": "COLOR", "vals": "MARINO, CAQUI, MOSTAZA" },
+				{ "name": "Tallas", "vals": "28, 30, 32, 34, 36, 38" }
+			],
+			"variants": ["MARINO/34", "MOSTAZA/30", "MOSTAZA/32", "MOSTAZA/34"],
+			"variant_text": "<b>MARINO/34</b>, <b>MOSTAZA/30</b>, <b>MOSTAZA/32</b>, <b>MOSTAZA/34</b>"
+		},
+		{
+			"name": "Bermuda Miracle 2007",
+			"price": 275.0,
+			"showPrices": true,
+			"picture": {
+				"id": 952,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/092035eba1db7cdd4b6b8ce55593e3d827d2ed4b.jpg",
+				"name": "MARINO"
+			},
+			"variants_attributes": [
+				{ "name": "COLOR", "vals": "MOSTAZA, BEIGE, MARINO" },
+				{ "name": "Tallas", "vals": "28, 30, 32, 34, 36, 38" }
+			],
+			"variants": [
+				"MARINO/28",
+				"MARINO/30",
+				"MARINO/32",
+				"MARINO/34",
+				"BEIGE/28",
+				"BEIGE/30",
+				"BEIGE/32",
+				"BEIGE/34",
+				"BEIGE/36",
+				"MOSTAZA/30",
+				"MOSTAZA/32",
+				"MOSTAZA/34",
+				"MOSTAZA/36"
+			],
+			"variant_text": "<b>MARINO/28</b>, <b>MARINO/30</b>, <b>MARINO/32</b>, <b>MARINO/34</b>, <b>BEIGE/28</b>, <b>BEIGE/30</b>, <b>BEIGE/32</b>, <b>BEIGE/34</b>, <b>BEIGE/36</b>, <b>MOSTAZA/30</b>, <b>MOSTAZA/32</b>, <b>MOSTAZA/34</b>, <b>MOSTAZA/36</b>"
+		},
+		{
+			"name": "Bermuda Miracle 2003",
+			"price": 275.0,
+			"showPrices": false,
+			"picture": {
+				"id": 946,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/d06aaefe9fc922b460d5861488012412884935cc.jpg",
+				"name": "PETROLEO"
+			},
+			"variants_attributes": [
+				{ "name": "COLOR", "vals": "MOSTAZA, CORAL, PETROLEO" },
+				{ "name": "Tallas", "vals": "30, 32, 34, 36, 38, 28" }
+			],
+			"variants": [
+				"MOSTAZA/28",
+				"MOSTAZA/30",
+				"MOSTAZA/32",
+				"MOSTAZA/34",
+				"MOSTAZA/36",
+				"MOSTAZA/38"
+			],
+			"variant_text": "<b>MOSTAZA/28</b>, <b>MOSTAZA/30</b>, <b>MOSTAZA/32</b>, <b>MOSTAZA/34</b>, <b>MOSTAZA/36</b>, <b>MOSTAZA/38</b>"
+		},
+		{
+			"name": "Bermuda Miracle 2008",
+			"price": 275,
+			"showPrices": false,
+			"picture": {
+				"id": 958,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/21c33097138f50113f2185fb5ec52508b6133854.jpg",
+				"name": "MARINO"
+			},
+			"variants_attributes": [
+				{ "name": "COLOR", "vals": "MARINO, OXFORD, MOSTAZA" },
+				{ "name": "Tallas", "vals": "28, 30, 32, 34, 36, 38" }
+			],
+			"variants": [
+				"MARINO/28",
+				"MARINO/30",
+				"MARINO/32",
+				"MARINO/34",
+				"MARINO/36",
+				"OXFORD/28",
+				"OXFORD/30",
+				"OXFORD/32",
+				"OXFORD/34",
+				"OXFORD/36",
+				"MOSTAZA/28",
+				"MOSTAZA/32",
+				"MOSTAZA/34"
+			],
+			"variant_text": "<b>MARINO/28</b>, <b>MARINO/30</b>, <b>MARINO/32</b>, <b>MARINO/34</b>, <b>MARINO/36</b>, <b>OXFORD/28</b>, <b>OXFORD/30</b>, <b>OXFORD/32</b>, <b>OXFORD/34</b>, <b>OXFORD/36</b>, <b>MOSTAZA/28</b>, <b>MOSTAZA/32</b>, <b>MOSTAZA/34</b>"
+		},
+		{
+			"name": "Bermuda Miracle 2001",
+			"price": 275,
+			"showPrices": false,
+			"picture": {
+				"id": 936,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/9171f9ce33aaff462f6fd8fadb1efa0e3833112c.jpg",
+				"name": "BEIGE"
+			},
+			"variants_attributes": [
+				{ "name": "COLOR", "vals": "BEIGE, MARINO" },
+				{ "name": "Tallas", "vals": "28, 30, 32, 34, 36, 38" }
+			],
+			"variants": ["MARINO/34", "BEIGE/30", "BEIGE/32", "BEIGE/34"],
+			"variant_text": "<b>MARINO/34</b>, <b>BEIGE/30</b>, <b>BEIGE/32</b>, <b>BEIGE/34</b>"
+		},
+		{
+			"name": "Camisa Fungus 2324-1 M/C",
+			"price": 290,
+			"showPrices": false,
+			"picture": {
+				"id": 1626,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/9e3a2ecf6937d7f5846e79aef0f6765ce51081c8.jpg",
+				"name": "Blanco Frente"
+			},
+			"variants_attributes": [
+				{ "name": "Tallas", "vals": "S, M, L, XL, 2XL" }
+			],
+			"variants": ["XL", "2XL"],
+			"variant_text": "<b>XL</b>, <b>2XL</b>"
+		},
+		{
+			"name": "Camisa Fungus 2324-4 M/C",
+			"price": 290,
+			"showPrices": false,
+			"picture": {
+				"id": 1632,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/7e992d28c3c68b67f7c76b6dd767fe10ef991c4b.jpg",
+				"name": "Negro Frente"
+			},
+			"variants_attributes": [
+				{ "name": "Tallas", "vals": "S, M, L, XL, 2XL" }
+			],
+			"variants": ["S", "M", "L", "XL", "2XL"],
+			"variant_text": "<b>S</b>, <b>M</b>, <b>L</b>, <b>XL</b>, <b>2XL</b>"
+		},
+		{
+			"name": "Camisa Fungus 2410-5 M/C",
+			"price": 290,
+			"showPrices": false,
+			"picture": {
+				"id": 1653,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/7af6c84fb1483191946a3ca7543baa5cbc7f14b5.jpg",
+				"name": "Blanco- Azul"
+			},
+			"variants_attributes": [
+				{ "name": "Tallas", "vals": "S, M, L, XL, 2XL" }
+			],
+			"variants": ["S", "2XL"],
+			"variant_text": "<b>S</b>, <b>2XL</b>"
+		},
+		{
+			"name": "Camisa Fungus 2324-2 M/C",
+			"price": 290,
+			"showPrices": false,
+			"picture": {
+				"id": 1629,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/d367114d43b3c4b763fd13b6ac453acb61c78816.jpg",
+				"name": "Marino Frente"
+			},
+			"variants_attributes": [
+				{ "name": "Tallas", "vals": "S, M, L, XL, 2XL" }
+			],
+			"variants": ["S", "M", "L", "XL", "2XL"],
+			"variant_text": "<b>S</b>, <b>M</b>, <b>L</b>, <b>XL</b>, <b>2XL</b>"
+		},
+		{
+			"name": "Pantalón Gabardina Gevy",
+			"price": 420,
+			"showPrices": false,
+			"picture": {
+				"id": 588,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/9ea268069306c59025cf48840b4b20270917e42c.jpg",
+				"name": "Eucalipto"
+			},
+			"variants_attributes": [
+				{
+					"name": "COLOR",
+					"vals": "MARINO, NEGRO, CAQUI, EUCALIPTO, GRIS CLARO, TABACO, BLANCO, MILITAR, AZUL REY"
+				},
+				{ "name": "Tallas", "vals": "40, 28, 30, 32, 34, 36, 38" }
+			],
+			"variants": [
+				"MARINO/28",
+				"MARINO/30",
+				"MARINO/32",
+				"MARINO/34",
+				"MARINO/36",
+				"EUCALIPTO/28",
+				"EUCALIPTO/30",
+				"EUCALIPTO/32",
+				"EUCALIPTO/34",
+				"EUCALIPTO/36",
+				"MILITAR/28",
+				"MILITAR/30",
+				"MILITAR/32",
+				"MILITAR/34",
+				"MILITAR/36",
+				"MILITAR/38",
+				"CAQUI/30",
+				"NEGRO/32",
+				"NEGRO/34",
+				"NEGRO/36",
+				"NEGRO/38",
+				"BLANCO/28",
+				"BLANCO/34",
+				"BLANCO/36",
+				"AZUL REY/28",
+				"NEGRO/30",
+				"EUCALIPTO/38",
+				"TABACO/28",
+				"TABACO/32",
+				"TABACO/36",
+				"GRIS CLARO/28",
+				"GRIS CLARO/30",
+				"GRIS CLARO/32",
+				"GRIS CLARO/34",
+				"GRIS CLARO/36",
+				"EUCALIPTO/40",
+				"TABACO/40",
+				"NEGRO/40"
+			],
+			"variant_text": "<b>MARINO/28</b>, <b>MARINO/30</b>, <b>MARINO/32</b>, <b>MARINO/34</b>, <b>MARINO/36</b>, <b>EUCALIPTO/28</b>, <b>EUCALIPTO/30</b>, <b>EUCALIPTO/32</b>, <b>EUCALIPTO/34</b>, <b>EUCALIPTO/36</b>, <b>MILITAR/28</b>, <b>MILITAR/30</b>, <b>MILITAR/32</b>, <b>MILITAR/34</b>, <b>MILITAR/36</b>, <b>MILITAR/38</b>, <b>CAQUI/30</b>, <b>NEGRO/32</b>, <b>NEGRO/34</b>, <b>NEGRO/36</b>, <b>NEGRO/38</b>, <b>BLANCO/28</b>, <b>BLANCO/34</b>, <b>BLANCO/36</b>, <b>AZUL REY/28</b>, <b>NEGRO/30</b>, <b>EUCALIPTO/38</b>, <b>TABACO/28</b>, <b>TABACO/32</b>, <b>TABACO/36</b>, <b>GRIS CLARO/28</b>, <b>GRIS CLARO/30</b>, <b>GRIS CLARO/32</b>, <b>GRIS CLARO/34</b>, <b>GRIS CLARO/36</b>, <b>EUCALIPTO/40</b>, <b>TABACO/40</b>, <b>NEGRO/40</b>"
+		},
+		{
+			"name": "Bermuda Miracle 1017",
+			"price": 275,
+			"showPrices": true,
+			"picture": {
+				"id": 924,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/2c7563340d3514de1048ad018acd106d1e74e12e.jpg",
+				"name": "MARINO"
+			},
+			"variants_attributes": [
+				{ "name": "COLOR", "vals": "MARINO, CAQUI, MOSTAZA" },
+				{ "name": "Tallas", "vals": "28, 30, 32, 34, 36, 38" }
+			],
+			"variants": ["MARINO/34", "MOSTAZA/30", "MOSTAZA/32", "MOSTAZA/34"],
+			"variant_text": "<b>MARINO/34</b>, <b>MOSTAZA/30</b>, <b>MOSTAZA/32</b>, <b>MOSTAZA/34</b>"
+		},
+		{
+			"name": "Bermuda Miracle 2007",
+			"price": 275.0,
+			"showPrices": true,
+			"picture": {
+				"id": 952,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/092035eba1db7cdd4b6b8ce55593e3d827d2ed4b.jpg",
+				"name": "MARINO"
+			},
+			"variants_attributes": [
+				{ "name": "COLOR", "vals": "MOSTAZA, BEIGE, MARINO" },
+				{ "name": "Tallas", "vals": "28, 30, 32, 34, 36, 38" }
+			],
+			"variants": [
+				"MARINO/28",
+				"MARINO/30",
+				"MARINO/32",
+				"MARINO/34",
+				"BEIGE/28",
+				"BEIGE/30",
+				"BEIGE/32",
+				"BEIGE/34",
+				"BEIGE/36",
+				"MOSTAZA/30",
+				"MOSTAZA/32",
+				"MOSTAZA/34",
+				"MOSTAZA/36"
+			],
+			"variant_text": "<b>MARINO/28</b>, <b>MARINO/30</b>, <b>MARINO/32</b>, <b>MARINO/34</b>, <b>BEIGE/28</b>, <b>BEIGE/30</b>, <b>BEIGE/32</b>, <b>BEIGE/34</b>, <b>BEIGE/36</b>, <b>MOSTAZA/30</b>, <b>MOSTAZA/32</b>, <b>MOSTAZA/34</b>, <b>MOSTAZA/36</b>"
+		},
+		{
+			"name": "Bermuda Miracle 2003",
+			"price": 275.0,
+			"showPrices": false,
+			"picture": {
+				"id": 946,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/d06aaefe9fc922b460d5861488012412884935cc.jpg",
+				"name": "PETROLEO"
+			},
+			"variants_attributes": [
+				{ "name": "COLOR", "vals": "MOSTAZA, CORAL, PETROLEO" },
+				{ "name": "Tallas", "vals": "30, 32, 34, 36, 38, 28" }
+			],
+			"variants": [
+				"MOSTAZA/28",
+				"MOSTAZA/30",
+				"MOSTAZA/32",
+				"MOSTAZA/34",
+				"MOSTAZA/36",
+				"MOSTAZA/38"
+			],
+			"variant_text": "<b>MOSTAZA/28</b>, <b>MOSTAZA/30</b>, <b>MOSTAZA/32</b>, <b>MOSTAZA/34</b>, <b>MOSTAZA/36</b>, <b>MOSTAZA/38</b>"
+		},
+		{
+			"name": "Bermuda Miracle 2008",
+			"price": 275,
+			"showPrices": false,
+			"picture": {
+				"id": 958,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/21c33097138f50113f2185fb5ec52508b6133854.jpg",
+				"name": "MARINO"
+			},
+			"variants_attributes": [
+				{ "name": "COLOR", "vals": "MARINO, OXFORD, MOSTAZA" },
+				{ "name": "Tallas", "vals": "28, 30, 32, 34, 36, 38" }
+			],
+			"variants": [
+				"MARINO/28",
+				"MARINO/30",
+				"MARINO/32",
+				"MARINO/34",
+				"MARINO/36",
+				"OXFORD/28",
+				"OXFORD/30",
+				"OXFORD/32",
+				"OXFORD/34",
+				"OXFORD/36",
+				"MOSTAZA/28",
+				"MOSTAZA/32",
+				"MOSTAZA/34"
+			],
+			"variant_text": "<b>MARINO/28</b>, <b>MARINO/30</b>, <b>MARINO/32</b>, <b>MARINO/34</b>, <b>MARINO/36</b>, <b>OXFORD/28</b>, <b>OXFORD/30</b>, <b>OXFORD/32</b>, <b>OXFORD/34</b>, <b>OXFORD/36</b>, <b>MOSTAZA/28</b>, <b>MOSTAZA/32</b>, <b>MOSTAZA/34</b>"
+		},
+		{
+			"name": "Bermuda Miracle 2001",
+			"price": 275,
+			"showPrices": false,
+			"picture": {
+				"id": 936,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/9171f9ce33aaff462f6fd8fadb1efa0e3833112c.jpg",
+				"name": "BEIGE"
+			},
+			"variants_attributes": [
+				{ "name": "COLOR", "vals": "BEIGE, MARINO" },
+				{ "name": "Tallas", "vals": "28, 30, 32, 34, 36, 38" }
+			],
+			"variants": ["MARINO/34", "BEIGE/30", "BEIGE/32", "BEIGE/34"],
+			"variant_text": "<b>MARINO/34</b>, <b>BEIGE/30</b>, <b>BEIGE/32</b>, <b>BEIGE/34</b>"
+		},
+		{
+			"name": "Camisa Fungus 2324-1 M/C",
+			"price": 290,
+			"showPrices": false,
+			"picture": {
+				"id": 1626,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/9e3a2ecf6937d7f5846e79aef0f6765ce51081c8.jpg",
+				"name": "Blanco Frente"
+			},
+			"variants_attributes": [
+				{ "name": "Tallas", "vals": "S, M, L, XL, 2XL" }
+			],
+			"variants": ["XL", "2XL"],
+			"variant_text": "<b>XL</b>, <b>2XL</b>"
+		},
+		{
+			"name": "Camisa Fungus 2324-4 M/C",
+			"price": 290,
+			"showPrices": false,
+			"picture": {
+				"id": 1632,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/7e992d28c3c68b67f7c76b6dd767fe10ef991c4b.jpg",
+				"name": "Negro Frente"
+			},
+			"variants_attributes": [
+				{ "name": "Tallas", "vals": "S, M, L, XL, 2XL" }
+			],
+			"variants": ["S", "M", "L", "XL", "2XL"],
+			"variant_text": "<b>S</b>, <b>M</b>, <b>L</b>, <b>XL</b>, <b>2XL</b>"
+		},
+		{
+			"name": "Camisa Fungus 2410-5 M/C",
+			"price": 290,
+			"showPrices": false,
+			"picture": {
+				"id": 1653,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/7af6c84fb1483191946a3ca7543baa5cbc7f14b5.jpg",
+				"name": "Blanco- Azul"
+			},
+			"variants_attributes": [
+				{ "name": "Tallas", "vals": "S, M, L, XL, 2XL" }
+			],
+			"variants": ["S", "2XL"],
+			"variant_text": "<b>S</b>, <b>2XL</b>"
+		},
+		{
+			"name": "Camisa Fungus 2324-2 M/C",
+			"price": 290,
+			"showPrices": false,
+			"picture": {
+				"id": 1629,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/d367114d43b3c4b763fd13b6ac453acb61c78816.jpg",
+				"name": "Marino Frente"
+			},
+			"variants_attributes": [
+				{ "name": "Tallas", "vals": "S, M, L, XL, 2XL" }
+			],
+			"variants": ["S", "M", "L", "XL", "2XL"],
+			"variant_text": "<b>S</b>, <b>M</b>, <b>L</b>, <b>XL</b>, <b>2XL</b>"
+		},
+		{
+			"name": "Pantalón Gabardina Gevy",
+			"price": 420,
+			"showPrices": false,
+			"picture": {
+				"id": 588,
+				"url": "https://luna-trend.s3.amazonaws.com/odoo/9ea268069306c59025cf48840b4b20270917e42c.jpg",
+				"name": "Eucalipto"
+			},
+			"variants_attributes": [
+				{
+					"name": "COLOR",
+					"vals": "MARINO, NEGRO, CAQUI, EUCALIPTO, GRIS CLARO, TABACO, BLANCO, MILITAR, AZUL REY"
+				},
+				{ "name": "Tallas", "vals": "40, 28, 30, 32, 34, 36, 38" }
+			],
+			"variants": [
+				"MARINO/28",
+				"MARINO/30",
+				"MARINO/32",
+				"MARINO/34",
+				"MARINO/36",
+				"EUCALIPTO/28",
+				"EUCALIPTO/30",
+				"EUCALIPTO/32",
+				"EUCALIPTO/34",
+				"EUCALIPTO/36",
+				"MILITAR/28",
+				"MILITAR/30",
+				"MILITAR/32",
+				"MILITAR/34",
+				"MILITAR/36",
+				"MILITAR/38",
+				"CAQUI/30",
+				"NEGRO/32",
+				"NEGRO/34",
+				"NEGRO/36",
+				"NEGRO/38",
+				"BLANCO/28",
+				"BLANCO/34",
+				"BLANCO/36",
+				"AZUL REY/28",
+				"NEGRO/30",
+				"EUCALIPTO/38",
+				"TABACO/28",
+				"TABACO/32",
+				"TABACO/36",
+				"GRIS CLARO/28",
+				"GRIS CLARO/30",
+				"GRIS CLARO/32",
+				"GRIS CLARO/34",
+				"GRIS CLARO/36",
+				"EUCALIPTO/40",
+				"TABACO/40",
+				"NEGRO/40"
+			],
+			"variant_text": "<b>MARINO/28</b>, <b>MARINO/30</b>, <b>MARINO/32</b>, <b>MARINO/34</b>, <b>MARINO/36</b>, <b>EUCALIPTO/28</b>, <b>EUCALIPTO/30</b>, <b>EUCALIPTO/32</b>, <b>EUCALIPTO/34</b>, <b>EUCALIPTO/36</b>, <b>MILITAR/28</b>, <b>MILITAR/30</b>, <b>MILITAR/32</b>, <b>MILITAR/34</b>, <b>MILITAR/36</b>, <b>MILITAR/38</b>, <b>CAQUI/30</b>, <b>NEGRO/32</b>, <b>NEGRO/34</b>, <b>NEGRO/36</b>, <b>NEGRO/38</b>, <b>BLANCO/28</b>, <b>BLANCO/34</b>, <b>BLANCO/36</b>, <b>AZUL REY/28</b>, <b>NEGRO/30</b>, <b>EUCALIPTO/38</b>, <b>TABACO/28</b>, <b>TABACO/32</b>, <b>TABACO/36</b>, <b>GRIS CLARO/28</b>, <b>GRIS CLARO/30</b>, <b>GRIS CLARO/32</b>, <b>GRIS CLARO/34</b>, <b>GRIS CLARO/36</b>, <b>EUCALIPTO/40</b>, <b>TABACO/40</b>, <b>NEGRO/40</b>"
+		}
+	]
+}

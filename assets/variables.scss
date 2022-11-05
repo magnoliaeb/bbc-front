@@ -1,0 +1,15 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+$font-size-root: 14px;
+
+$body-font-family: 'Roboto';
+$btn-font-weight: 400;
+// $text-field-outlined-fieldset-border: 1px solid #4aa65a;
+$grid-breakpoints: (
+	'xs': 0,
+	'sm': 480px,
+	'md': 864px,
+	'lg': 1264px,
+	'xl': 1440px,
+);
